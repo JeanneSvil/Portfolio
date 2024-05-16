@@ -1,5 +1,7 @@
 # Elizabeth dos Santos Cerqueira
-Sou estudante de TI com foco em IA e Robótica
+Sou uma entusiasta de tecnologia apaixonado por Inteligência Artificial (IA) e Robótica.
+Atualmente, estou concentrado em aprimorar minhas habilidades na linguagens de programação
+* Python: Empenhada em dominar Python, especialmente em relação à IA e ao machine learning. Trabalhando em projetos práticos da DIO para aplicar meus conhecimentos teóricos.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-cerqueira-8548661b0)
